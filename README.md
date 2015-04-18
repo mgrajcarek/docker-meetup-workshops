@@ -9,10 +9,10 @@ Docker runs only on GNU/Linux 64 bit. If you're using MacOS or Windows (or stran
 
 Install vagrant with ubuntu 14.04 64bit, or just make sure that you have a similar distro on your laptop.
 
-1. [Install vagant](http://www.vagrantup.com/downloads)
+1. [Install vagrant](http://www.vagrantup.com/downloads)
 2. Configure vagrant:
   ```
-  $ vagrant init hashicorp/trusty64
+  $ vagrant init ubuntu/trusty64
   ```
 3. Start machine
   ```
